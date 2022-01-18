@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+#container{
+    background-color: rgba(200, 200, 200, 0.15);
+    width: 820px;
+    margin: auto;
+    margin-top: 30px;
+}
+header{
+    padding-left: 10px;
+}
+
+#firsthead{
+    width: 800px;
+    font-weight: 200;
+    border-top: 1px solid;
+    font-size: 80px;
+    line-height: 0.8;
+
+}
+#secondhead{
+    margin-top: 15px;
+    font-size: 28px;
+    font-weight: 100;
+}
+section{
+    padding-left: 10px;
+}
+
+#name,
+#surname,
+#radio,
+#feature,
+#role,
+#check,
+#email{
+    width: 70%;
+    line-height: 2;
+    margin-bottom: 10px;
+    font-size: 20px;  
+    background-color: rgba(200, 200, 200, 0.25);
+}
+#namee,
+#surnamee,
+#emaill{
+    width: 70%;
+    line-height: 2;
+    font-size: 20px;  
+}
+.optt{
+    height: 30px;
+    
+}
+label{
+    font-size: 20px;
+}
+#textar{
+    width: 250px;
+    font-size: 17px;
+}
